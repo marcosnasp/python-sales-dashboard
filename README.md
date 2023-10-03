@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=P6E_Kts9pxE
 
 Para execução do projeto:
 
-Crie o virtual env:
+Crie o virtual env:pyt
 
 ```bash
 python -m venv venv
